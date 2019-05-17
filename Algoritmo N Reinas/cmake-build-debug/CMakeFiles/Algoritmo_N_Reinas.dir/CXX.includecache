@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/edgargonza/Desktop/Algoritmo N Reinas/NReinas.cpp
+NReinas.h
+/home/edgargonza/Desktop/Algoritmo N Reinas/NReinas.h
+
+/home/edgargonza/Desktop/Algoritmo N Reinas/NReinas.h
+iostream
+-
+
+/home/edgargonza/Desktop/Algoritmo N Reinas/main.cpp
+iostream
+-
+NReinas.h
+/home/edgargonza/Desktop/Algoritmo N Reinas/NReinas.h
+NReinas.cpp
+/home/edgargonza/Desktop/Algoritmo N Reinas/NReinas.cpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Algoritmo_N_Reinas.dir/main.cpp.o  -o Algoritmo_N_Reinas 
